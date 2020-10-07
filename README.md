@@ -1,6 +1,6 @@
 # DescentLW
 
-An extremely lightweight function for (naively) computing the principal value of the Lambert W-Function when it is real.
+An extremely lightweight function for (naively) computing the principal value of the Lambert W-Function when it is real. Equivalent to WolframAlpha's `productlog`.
 
 ## Use
 
